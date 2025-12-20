@@ -1,0 +1,8 @@
+/.quarto/
+/_site/
+/_book/
+/_freeze/
+.Rproj.user
+.Rhistory
+.RData
+.DS_Store
