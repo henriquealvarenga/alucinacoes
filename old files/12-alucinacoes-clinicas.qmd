@@ -1,0 +1,38 @@
+# Alucinações em quadros clínicos {#sec-alucinacoes-clinicas}
+
+## Alucinações auditivas
+
+Alucinações verbais auditivas são comuns em diversas patologias psiquiátricas e neurológicas, tais como:
+
+-   Esquizofrenia
+-   Transtornos de humor
+-   Transtornos dissociativos
+-   Intoxicação com drogas
+-   Transtorno de estresse pós-traumático
+-   Doença de Parkinson
+-   Doença de Alzheimer
+-   Epilepsia
+-   Entre outros
+
+::: callout-warning
+## Limitação diagnóstica
+
+Entretanto, não parece haver diferenças nas características das alucinações que permitam inferir o diagnóstico. Ou seja, a característica das vozes não parece ser suficiente para determinar se o diagnóstico do paciente é esquizofrenia, transtorno bipolar, depressão ou outro transtorno psiquiátrico [@waters2017hallucinations].
+:::
+
+## Alucinações visuais
+
+As alucinações visuais também ocorrem em diversos contextos clínicos e têm importantes implicações diagnósticas que serão exploradas em material complementar.
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+## Nota do autor
+
+Este capítulo será expandido em futuras edições com discussões mais detalhadas sobre:
+
+-   Alucinações visuais em quadros clínicos
+-   Diagnóstico diferencial
+-   Abordagens terapêuticas
+-   Casos clínicos ilustrativos
+:::

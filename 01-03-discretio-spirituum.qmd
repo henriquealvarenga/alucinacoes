@@ -1,0 +1,43 @@
+# Vozes, Visões e o *Discretio Spirituum* {#sec-discretio-spirituum}
+
+::: drop-cap
+Durante o período monástico medieval, sobretudo entre os séculos XII e XIII, visões eram frequentemente interpretadas como sinais de santidade, especialmente entre as mulheres [@beckman2012mysticism, p. 183]. Mulheres carismáticas eram vistas como pontos de contato entre o mundo espiritual e o mundo terreno, lugares simbólicos onde vivos e mortos, humano e divino, podiam se encontrar.
+:::
+
+Cidadãos comuns, autoridades seculares e lideranças religiosas recorriam a mulheres visionárias em busca de orientação sobre questões diversas: o destino das almas dos falecidos, a vontade divina em assuntos políticos e eclesiásticos, bem como o significado espiritual de passagens bíblicas obscuras [@beckman2012mysticism, p. 184]. A experiência visionária, longe de ser marginal, ocupava um lugar central na vida religiosa e social medieval.
+
+Ao final do século XIII, o fenômeno das mulheres visionárias havia se difundido amplamente pela Europa. Contudo, embora o acesso direto ao divino fosse um princípio teológico fundamental do cristianismo e um poderoso estímulo à fé, ele representava simultaneamente uma ameaça às autoridades eclesiásticas. Aqueles que afirmavam manter um contato intenso e não mediado com Deus podiam ser levados a questionar doutrinas estabelecidas, hierarquias e mecanismos tradicionais de controle religioso. Por essa razão, instituições religiosas passaram historicamente a demonstrar desconfiança em relação a indivíduos que reivindicavam novas revelações ou experiências espirituais autônomas [@voaden1994gods].
+
+Como resposta a essa tensão, a Igreja Católica — dotada de uma longa tradição institucional e teológica — desenvolveu mecanismos específicos para avaliar, enquadrar e regular experiências visionárias, antecipando, em muitos aspectos, procedimentos que séculos mais tarde reapareceriam sob outras linguagens e autoridades.
+
+Esse sistema encontra sua expressão mais clara na doutrina do *discretio spirituum*, um protocolo teológico destinado a distinguir visões consideradas verdadeiras (de origem divina) daquelas atribuídas a engano humano ou influência demoníaca [@voaden1994gods].
+
+O *discretio spirituum* não buscava estabelecer se a visão havia ocorrido ou não — isso era frequentemente pressuposto. A questão central era outra: **quem falava por meio daquela experiência?** Deus, um espírito maligno ou a imaginação humana? Ao final da Idade Média, acreditava-se que essa distinção exigia conhecimento especializado, adquirido por meio do estudo teológico e da autoridade institucional.
+
+Do ponto de vista fenomenológico, a experiência visionária era avaliada não apenas pelo conteúdo da visão ou da voz, mas também por seus efeitos morais: humildade, obediência, castidade e conformidade com a doutrina eram considerados indícios de origem divina; orgulho, rebeldia e desvio doutrinário, sinais de engano ou influência demoníaca.
+
+## Joana d'Arc: um caso emblemático {#sec-joana-darc}
+
+No final do período medieval, as vozes escutadas por uma jovem camponesa de apenas 13 anos exerceram impacto profundo sobre o rei francês Carlos VII, reacenderam as esperanças do povo francês, influenciaram o curso da Guerra dos Cem Anos e alteraram decisivamente o rumo da história europeia.
+
+Entre 1337 e 1453, França e Inglaterra envolveram-se em uma série de conflitos conhecidos como a Guerra dos Cem Anos. No quarto período dessa guerra, após a morte de Carlos VI da França e Henrique V da Inglaterra, ambos os reinos passaram a ser reivindicados por Henrique VI, então um recém-nascido.
+
+A França encontrava-se dividida entre facções pró-inglesas e partidários de Carlos VII, coroado rei francês em 1422. O país estava devastado tanto pela guerra externa quanto por profundas divisões internas. Circulava, nesse contexto, uma profecia segundo a qual a França seria restaurada por uma virgem [@ireland1883joan].
+
+Joana d'Arc começou a ouvir vozes e a ter visões aos 13 anos de idade, experiências que identificava como manifestações de santos e anjos. Essas vozes a exortavam a levar uma vida piedosa e a libertar a cidade de Orléans do cerco inglês [@nicastro2016joan].
+
+Em 1429, Joana obteve uma audiência com Carlos VII, afirmando ter sido enviada por Deus para salvar a França [@constant2016concepts, p. 226]. Durante três semanas, foi submetida à avaliação de juristas e teólogos, que examinaram sua fé, sua conduta moral e a natureza de suas experiências. A comissão concluiu não haver sinais de malícia ou heresia, destacando sua humildade, piedade, simplicidade e virgindade, e recomendou que Joana recebesse armas e se juntasse ao exército francês em Orléans [@constant2016concepts, p. 231–232].
+
+Após oito meses de tentativas fracassadas, a chegada de Joana a Orléans teve um efeito profundamente mobilizador. As tropas francesas obtiveram vitória, e sua presença passou a ser considerada decisiva para o desfecho da batalha.
+
+Entre abril e julho de 1429, os franceses conquistaram uma série de vitórias que culminaram na coroação de Carlos VII. Esses sucessos reforçaram a crença de que Joana havia sido verdadeiramente enviada por Deus [@constant2016concepts].
+
+Em 1430, Joana foi capturada pelos ingleses, submetida a julgamento e condenada à fogueira sob acusação de heresia [@vale1974charles]. A caracterização de suas vozes e visões como diabólicas tinha claros objetivos políticos: deslegitimar a coroação de Carlos VII.
+
+Após o fim da guerra, o papa Calisto III determinou a revisão do processo, que, em 1456, declarou Joana inocente. Ao longo dos séculos seguintes, suas vozes e visões continuaram a ser reinterpretadas até sua beatificação em 1909 e canonização em 1920. Sua história tornou-se tema de livros, filmes e outras formas de expressão cultural.
+
+::: callout-note
+## O *Discretio Spirituum* aplicado
+
+O caso de Joana d'Arc ilustra com clareza o funcionamento do *discretio spirituum*: inicialmente, suas visões foram validadas por uma comissão francesa e consideradas de origem divina; posteriormente, um tribunal inglês as declarou diabólicas. A mesma experiência, julgada por autoridades distintas, recebeu veredictos opostos — com consequências extremas para a visionária.
+:::

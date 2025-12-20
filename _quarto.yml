@@ -1,0 +1,75 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Vozes e Visões: O Sagrado, a Experiência e a Medicina"
+  subtitle: "Uma Breve Introdução"
+  author:
+    - name: "Henrique Alvarenga da Silva"
+      affiliation: "Universidade Federal de São João del-Rei (UFSJ)"
+      email: "henriquealvarenga@ufsj.edu.br"
+      orcid: "0000-0001-9799-5240"
+  date: "2025-12-20"
+  date-format: "long"
+  language: pt
+  
+  page-navigation: true
+  search: true
+  repo-url: https://github.com/henriquealvarenga/alucinacoes
+  repo-actions: [edit, issue]
+  
+  sidebar:
+    style: docked
+    background: light
+    collapse-level: 1
+  
+  chapters:
+    - index.qmd
+    - 00-introducao.qmd
+    
+    - part: "Parte I — O sagrado"
+      chapters:
+        - 01-01-vozes-profeticas.qmd
+        - 01-02-visoes-marianas.qmd
+        - 01-03-discretio-spirituum.qmd
+        - 01-04-xamanismo.qmd
+    
+    - part: "Parte II — A experiência"
+      chapters:
+        - 02-01-fenomenologia.qmd
+        - 02-02-continuum.qmd
+        - 02-03-dimensoes.qmd
+        - 02-04-escalas.qmd
+    
+    - part: "Parte III — O cérebro"
+      chapters:
+        - 03-01-historia-conceito.qmd
+        - 03-02-neurobiologia.qmd
+        - 03-03-substancias.qmd
+        - 03-04-ouvidores-vozes.qmd
+    
+    - references.qmd
+
+# Bibliografia global
+bibliography: references/references.bib
+csl: references/csl_styles/ABNT.csl
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    mainfont: "Crimson Pro"
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 2
+    code-fold: true
+    lang: pt-BR
+
+editor: visual
+
+execute:
+  freeze: auto

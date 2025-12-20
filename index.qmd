@@ -1,0 +1,54 @@
+---
+title: "Início"
+---
+
+## Sobre este livro {.unnumbered}
+
+::: {.callout-note appearance="simple"}
+**Coleção:** Temas em Psicopatologia
+
+**ISBN da Primeira Edição de 2019:** 978-65-00-09059-8 **ISBN da Segunda Edição de 2025:** xxx-xx-xx-xxxx-x
+
+© 2025 - Henrique Alvarenga da Silva
+:::
+
+![Capa: Photo by Jr Korpa on Unsplash](images/jr-korpa-6hu-7rfufMo-unsplash-large.jpg){fig-alt="Imagem abstrata representando percepções alteradas" width="100%"}
+
+## Objetivos de Aprendizagem {.unnumbered}
+
+Ao final deste livro, você será capaz de:
+
+-   Conceituar alucinação
+-   Criticar o conceito de alucinação usado em psicopatologia
+-   Avaliar qual o melhor termo: alucinações verbais auditivas ou vozes?
+-   Compreender a relação entre alucinações, vozes, visões, cultura e religião
+-   Discutir o efeito e as consequências de substâncias alucinógenas
+-   Distinguir os diferentes tipos de alucinações
+-   Avaliar o significado das alucinações nos quadros psiquiátricos e neurológicos
+
+## Campos de estudo dos fenômenos alucinatórios {.unnumbered}
+
+Este livro aborda os fenômenos alucinatórios a partir de diferentes perspectivas:
+
+-   Religião, cultura e alucinações
+-   Psicopatologia descritiva
+-   Causas das alucinações
+-   Estudos de neuroimagem e neurofisiologia dos fenômenos alucinatórios
+
+## Questões para reflexão {.unnumbered}
+
+Antes de iniciar a leitura, considere as seguintes questões:
+
+1.  O que é uma alucinação?
+2.  Alucinações são alterações da sensopercepção?
+3.  Zunido e tinnitus são alucinações?
+4.  Pode haver alucinação visual em pessoas cegas desde o nascimento?
+5.  Pode haver alucinação auditiva em pessoas surdas desde o nascimento?
+6.  Que tipo de alucinações são mais comuns na esquizofrenia?
+7.  Qual o significado clínico de alucinações olfativas?
+8.  Quais as diferentes formas de alucinações auditivas?
+9.  Com que frequência ocorrem alucinações auditivas na população?
+10. Alucinações auditivas são sempre fenômenos psicopatológicos?
+11. Pode haver alucinação auditiva em indivíduos sem nenhum transtorno psiquiátrico ou psicológico?
+12. Em que aspectos as alucinações auditivas em pacientes com transtornos psicóticos se diferenciam daquelas em indivíduos sem transtornos psiquiátricos?
+13. Alucinações visuais têm algum significado clínico/psicopatológico?

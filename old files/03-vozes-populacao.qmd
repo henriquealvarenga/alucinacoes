@@ -1,0 +1,44 @@
+# O fenômeno de ouvir vozes na população em geral {#sec-vozes-populacao}
+
+Há uma longa tradição na psiquiatria e na psicopatologia sobre o fenômeno de ouvir vozes e médicos e psicólogos têm em sua rotina diária da clínica uma amostra enviesada de ouvidores de vozes, pois esses profissionais lidam geralmente com pacientes e não com a população em geral.
+
+É, então, razoável compreender que, por causa desse viés, os profissionais da medicina geralmente considerem esse fenômeno um sintoma, e geralmente o associem a algum distúrbio mental. Além disso, o fato desse fenômeno ser usualmente descrito com o termo alucinação reforça ainda mais o caráter patológico dessas vivências entre os profissionais de saúde. Mas está cada vez mais claro que essas vivências ocorrem de variadas formas, em diferentes contextos e com diferentes significados.
+
+## Prevalência na população geral
+
+Diversos estudos analisaram o fenômeno de ouvir vozes ou ter visões na população em geral, tendo encontrado prevalências variando de **4 a 15%** [@jardri2013neuroscience].
+
+## Vozes e o luto
+
+Entre aqueles em luto pela perda de um parceiro amado esse percentual pode ser bem maior. Num estudo com 50 participantes enlutados, com idade média de 73 anos [@grimby1993bereavement]:
+
+| Experiência                      | Prevalência |
+|----------------------------------|-------------|
+| Ouvir a voz do parceiro falecido | 30%         |
+| Visões do falecido               | 26%         |
+| Sensação da presença do parceiro | 52%         |
+
+Num outro estudo sobre alucinações em situações de luto, cerca de quase metade dos entrevistados relatou alguma forma de alucinação ou ilusão envolvendo a pessoa amada falecida [@dewi1971hallucinations]. Manter uma conversação com o falecido é também uma experiência relativamente comum, ocorrendo em 11.6% até 30% dos casos [@dewi1971hallucinations].
+
+Um importante aspecto dessas experiências entre os enlutados é que a maioria se sente amparada pelas vozes e pela visão do parceiro falecido [@dewi1971hallucinations].
+
+## Aspectos culturais
+
+A forma como a cultura sanciona essas experiências também traz importantes consequências. Enquanto no ocidente essas experiências de reencontro com o falecido causam estranheza e medo em muitos, no Japão essa é uma prática encorajada, pois o ente querido falecido passa a ser reverenciado [@yamamoto1969mourning].
+
+## Vozes em jovens saudáveis
+
+Entre jovens sem patologias psiquiátricas ou neurológicas as experiências de ouvir vozes são também frequentes. Num estudo com 354 estudantes de Portugal, com idade média de 24 anos [@castiajo2017hearing]:
+
+-   **18%** dos participantes relataram já terem tido experiências de ouvir vozes
+-   **15%** relataram já terem vivido a experiência de ouvirem uma voz falando os próprios pensamentos
+
+Num outro estudo com 586 universitários:
+
+-   **37%** reportaram ter ouvido uma voz ecoando seus pensamentos
+-   **6.3%** já ouviram a voz de um familiar falecido
+-   **8.7%** reportaram terem ouvido a voz de Deus
+
+## Conteúdo predominantemente positivo
+
+Num outro estudo com 103 adultos ouvidores de vozes, sem patologias psiquiátricas, a grande maioria relatou que as vozes tinham um **conteúdo positivo** e sem nenhum impacto negativo em suas vidas [@sommer2010healthy].

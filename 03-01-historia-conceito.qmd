@@ -1,0 +1,45 @@
+# Vozes ou alucinações? {#sec-vozes-ou-alucinacoes}
+
+## Origem do termo
+
+::: drop-cap
+O termo alucinação é tradicionalmente usado para descrever a experiência de uma percepção na ausência de um estímulo sensorial, por exemplo, para descrever a experiência de ouvir uma voz na ausência de um estímulo sonoro, ou de ver uma imagem na ausência de um estímulo visual, ou de sentir uma carícia na ausência de um estímulo tátil, ou um cheiro na ausência de um estímulo olfativo. Podem assim existir alucinações auditivas, visuais, olfativas, gustativas, táteis e até mesmo proprioceptivas. Apesar dessa aparente simplicidade, é um dos conceitos psicopatológicos mais difíceis de conceituar.
+:::
+
+A origem do termo alucinação é controversa. Acredita-se que talvez tenha vindo do latim *hallucinatio*, que significava vagar mentalmente ou distraído [@jardri2013neuroscience], ou talvez do latim *allucinor, allucinaris*, que significava erro ou equívoco, ou ainda do termo *ad lucem* (ao lado da luz) [@blom2010dictionary; @tellescorreia2015hallucinations].
+
+Seja qual for a origem, parece que o termo alucinação surgiu no idioma inglês em 1572, através da obra traduzida de Ludwig Lavater, um teólogo suíço [@blom2010dictionary; @jardri2013neuroscience]. Lavater usou esse termo para denotar "Fantasmas e espíritos caminhando à noite, e barulhos estranhos, rachaduras e diversos encaminhamentos, que geralmente acontecem antes da morte de homens, grandes matanças e alterações de reinos" [@blom2010dictionary]. Daí em diante, até o século XIX, o termo alucinação foi usado com diversos significados: doença mental, equívocos da percepção, ilusões, lembranças vívidas entre outros [@blom2010dictionary].
+
+## A contribuição de Esquirol
+
+Foi apenas em 1817 que esse termo passou a ser usado com sua atual conotação, através da contribuição do psiquiatra francês Jean-Etienne-Dominique Esquirol ao dicionário de ciências médicas francês [@berrios1996history; @jardri2013neuroscience]. Nessa obra o termo alucinação foi definido por Esquirol como:
+
+> "A mad person who has the thorough conviction of an actually perceived sensation, while no object suited to excite that sensation is present within the range of his senses, abides in a state of hallucination. He is a visionary."
+
+Esquirol argumentava que, até então, alucinações visuais eram denotadas pelo termo "visão", mas que esse termo estava estreitamente relacionado a apenas um dos sentidos e era necessário haver um termo mais amplo que pudesse descrever essas experiências também em outras modalidades sensoriais, pois seria estranho dizer "visões de cheiro", "visões de paladar". Um termo genérico era, portanto, necessário [@berrios1996history; @blom2010dictionary].
+
+## O estigma do termo "alucinação"
+
+Desde a introdução do termo alucinação no jargão médico por Esquirol essa palavra carrega a conotação de uma patologia e muitas pessoas que escutam vozes consideram esse termo estigmatizante [@woods2015experiences]. Apesar de ser um termo já consagrado na literatura médica, seu uso indica que o sujeito sofre de um sintoma.
+
+Entretanto, como veremos, o fenômeno de ouvir vozes não ocorre apenas em pacientes com distúrbios psiquiátricos ou neurológicos. Portanto, para podermos estudar esse fenômeno de forma ampla e sem preconceitos, o uso do termo "ouvir vozes" é mais interessante do que "alucinações verbais auditivas", mais amplo e não carrega a conotação patológica. Da mesma forma, o termo "visões" é também mais amplo e com menos conotação patológica do que o termo "alucinações visuais".
+
+Nos últimos 200 anos os significados pessoais, culturais e clínicos das alucinações passaram por diversas transformações [@waters2017hallucinations]. Existe hoje um amplo reconhecimento de que a experiência de ouvir vozes e ter visões ocorre em uma grande variedade de situações, clínicas e não clínicas.
+
+## Uma questão de interpretação
+
+As experiências de ouvir visões e vozes são frequentemente descritas a partir de uma estrutura teórica:
+
+-   **Religiosos** podem interpretar esses fenômenos como sendo de origem divina
+-   **Sociólogos** podem interpretar como sendo de origem cultural
+-   **Ciência médica** pode interpretar como sendo produto de uma disfunção biológica
+
+O fato importante é que a explicação do fenômeno não é o fenômeno-em-si. Portanto, é preciso cautela ao descrever o fenômeno como uma alucinação, tendo em vista que esse termo atualmente tem uma clara conotação de disfunção biológica.
+
+::: callout-important
+## Reflexão crítica
+
+Ao contrário do que a psicopatologia almeja, o termo "alucinação" não é puramente descritivo, não é um termo ateórico, mas carrega uma interpretação médica subjacente e uma carga de estigma importante.
+:::
+
+Assim, usar o termo "visão" ou "ouvir vozes" para descrever esse fenômeno parece ser mais acertado do ponto de vista da fenomenologia.

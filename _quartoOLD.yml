@@ -1,0 +1,106 @@
+project:
+  type: manuscript
+  output-dir: docs
+
+authors:
+  - name: Henrique Alvarenga da Silva
+    affiliation: UFSJ
+    corresponding: true
+
+website:
+  title: "Alucinações, Vozes e Visões"
+  site-url: "https://henriquealvarenga.com"
+  site-path: "/alucinacoes"
+  favicon: favicon.ico
+  
+
+  navbar:
+      background: primary
+      left:
+        - text: "Início"
+          href: index.qmd
+        - text: "Casos Clínicos"
+          href: xxx.qmd
+        - text: "Apêndices"
+          href: xxxxxxx.qmd    
+
+
+  sidebar:
+      style: "docked"
+      search: true
+      contents:
+        - section: "Início"
+          contents:
+            - text: "Prefácio"
+              href: 00-prefacio.qmd        
+            - text: "Introdução"
+              href: index.qmd        
+            - text: "cap1"
+              href: 01-xxxx.qmd
+            - text: "cap2"
+              href: 02-xxxx.qmd
+            - text: "Conclusão"
+              href: 03-xxxx.qmd
+        - section: "Casos"
+          contents:
+            - text: "01"
+              href: 01-xxx.qmd
+            - text: "01"
+              href: 02-xxx.qmd
+            - text: "03"
+              href: 03-xxx.qmd    
+            - text: "04"
+              href: 04-xxx.qmd       
+            - text: "05"
+              href: 05-xxx.qmd 
+            - text: "06"
+              href: 06-xxx.qmd   
+            - text: "07"
+              href: 07-xxx.qmd                 
+        - section: "Apêndices"
+          contents:
+            - text: "xxx"
+              href: 08-xxx.qmd          
+            - text: "xxx"
+              href: 09-xxx.qmd
+            - text: "Glossário"
+              href: 10-xxx.qmd       
+
+  page-footer:
+    left: "© 2025 Henrique Alvarenga"
+    right: 
+      - icon: github
+        href: https://henriquealvarenga.com/alucinacoes
+               
+
+format:
+  html:
+    theme: 
+      light: [cosmo, custom.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    number-sections: true
+    number-depth: 3
+    code-fold: true
+    code-tools: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+
+# Execução    
+execute:
+  freeze: auto
+  echo: false
+  warning: false
+  message: false
+
+# Bibliografia global
+bibliography: references/references.bib
+csl: references/cls_styles/abnt.csl  
+
+# Metadados globais
+lang: pt-BR
+date: today
+date-format: "DD [de] MMMM [de] YYYY"

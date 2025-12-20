@@ -1,0 +1,75 @@
+# Vozes e Visões na População em Geral {#sec-vozes-populacao}
+
+::: drop-cap
+Ao contrário do que sugerem concepções estritamente clínicas, experiências como ouvir vozes ou ver figuras inexistentes não se restringem a quadros psiquiátricos. Estudos realizados ao longo das últimas décadas mostram que tais fenômenos ocorrem com relativa frequência na população geral, muitas vezes sem sofrimento significativo, prejuízo funcional ou necessidade de cuidados médicos.
+:::
+
+A investigação sistemática dessas experiências fora do contexto clínico começou a ganhar corpo a partir do final do século XX. Um dos estudos pioneiros e amplamente citados foi conduzido por Posey e Losch, que entrevistaram 375 universitários considerados mentalmente saudáveis. Os autores encontraram que 71% dos participantes relataram ao menos uma experiência de tipo alucinatório ao longo da vida. Foram particularmente comuns fenômenos como ouvir o próprio nome sendo chamado quando sozinho (36%) ou perceber os próprios pensamentos como se fossem falados em voz alta (39%) [@posey1983auditory]. Esses relatos não se associaram a indicadores de psicopatologia, o que é compatível com a hipótese de que tais vivências integram o repertório possível da vida mental humana.
+
+Estudos posteriores também analisaram o fenômeno de ouvir vozes ou ter visões na população em geral, encontrando prevalências variando de 4 a 15% [@jardri2013neuroscience]. Em uma amostra de 354 estudantes portugueses (idade média de 24 anos), 18% relataram já ter ouvido vozes, e 15% descreveram a experiência de ouvir uma voz “dizendo” os próprios pensamentos [@castiajo2017hearing]. Em outro estudo, com 103 adultos que vivenciavam ouvir vozes sem diagnóstico psiquiátrico, a maioria relatou que as vozes tinham conteúdo positivo e não produziam impacto negativo relevante em suas vidas [@sommer2010healthy].
+
+Resultados convergentes foram relatados por Terry Barrett em uma série de estudos sobre verbal hallucinations in normals. Em um primeiro levantamento, Barrett descreveu relatos auditivos vívidos, incluindo vozes comentando pensamentos, chamando o sujeito pelo nome ou emergindo em estados limítrofes entre vigília e sono [@barrett1992verbal]. Em uma amostra de cerca de 586 universitários, 37% reportaram ter ouvido uma voz ecoando seus pensamentos; 6,3% relataram ter ouvido a voz de um familiar falecido; e 8,7% referiram ter ouvido a voz de Deus [@barrett1992verbal]. Em estudo subsequente, o autor observou que pessoas que relatam essas experiências tendem a apresentar maior vividez imagética, embora não necessariamente menor controle sobre suas imagens mentais [@barrett1993verbal]. Em conjunto, esses achados reforçam a ideia de que tais vivências se distribuem de modo contínuo na população, variando em intensidade, significado e impacto subjetivo.
+
+Mais recentemente, essa perspectiva foi testada em escala muito maior por Linszen e colaboradores, em um amplo levantamento online com 10.448 participantes da população geral. Utilizando uma versão autoaplicável do Questionnaire for Psychotic Experiences (QPE), os autores investigaram a ocorrência e a fenomenologia de alucinações em quatro modalidades sensoriais. No mês anterior à pesquisa, 29,5% dos participantes relataram experiências auditivas, 21,5% visuais, 19,9% táteis e 17,3% olfativas; quase metade reportou experiências em mais de uma modalidade [@linszen2022phenomenology].
+
+Um aspecto particularmente relevante desse estudo é a descrição da vivência subjetiva associada às experiências. Embora uma parcela dos participantes tenha relatado sofrimento, conteúdo negativo ou diminuição do insight, muitos descreveram as experiências como neutras, transitórias ou integradas à vida cotidiana. Com base nesses dados, os autores defendem a existência de um continuum fenomenológico, no qual experiências alucinatórias não seriam categoricamente distintas entre população geral e clínica, mas difeririam em grau, frequência, impacto emocional e contexto interpretativo [@linszen2022phenomenology].
+
+Um traço recorrente nos relatos — tanto clínicos quanto não clínicos — é que essas vivências se impõem à consciência com um caráter de realidade, independentemente do julgamento crítico posterior. Como enfatiza Karl Jaspers em sua Psicopatologia Geral, certas experiências são vividas como imediatamente reais, dotadas de evidência própria, mesmo quando o sujeito posteriormente reconhece sua natureza subjetiva [@jaspers1963general]. Esse caráter de evidência fenomenológica ajuda a explicar por que vozes e visões frequentemente produzem forte impacto emocional e são lembradas como eventos marcantes da biografia individual.
+
+Por isso, muitos relatos assumem um caráter de marco biográfico: há um “antes” e um “depois” da primeira voz, da primeira visão. Mesmo quando não interpretadas de modo religioso ou patológico, essas experiências tendem a ser narradas como acontecimentos singulares, capazes de reorganizar temporariamente a percepção de si, do mundo e do próprio corpo.
+
+## Vozes e Visões em Situações Limite
+
+Oliver Sacks relatou uma experiência pessoal em Hallucinations. Em 1974, durante uma escalada solitária nas montanhas da Noruega, sofreu um grave acidente que rompeu músculos da coxa e deslocou o joelho. Exausto e em choque, considerou descansar na neve — o que significaria a morte por hipotermia. Foi então que ouviu uma voz clara e imperativa, distinta do seu diálogo interno habitual:
+
+> “You can't rest here — you can't rest anywhere. You've got to go on. Find a pace you can keep up and go on steadily.” ^[Você não pode descansar aqui — não pode descansar em lugar algum. Você precisa continuar. Encontre um ritmo que consiga manter e siga em frente constantemente][@sacks2012hallucinations]
+
+Sacks chamou essa voz de life voice (“voz de vida”) e atribuiu a ela sua sobrevivência. Mais tarde, enfatizou que não se tratava de seu monólogo interno habitual, mas de uma voz “outra”, percebida como segura e confiável, embora reconhecida como emergindo de alguma parte de si mesmo.
+
+A ocorrência de alucinações em altitudes extremas tem sido documentada sistematicamente. Um estudo pioneiro de Brugger e colaboradores entrevistou oito alpinistas de classe mundial que alcançaram altitudes acima de 8.500 metros sem oxigênio suplementar — incluindo o Everest, K2, Kangchenjunga e Lhotse — e encontrou experiências alucinatórias em sete dos oito escaladores (88%) [@brugger1999hallucinatory]. As experiências mais frequentes foram ilusões somestésicas (distorções do esquema corporal), além de vivências de “presença sentida”. Um alpinista descreveu:
+
+> “Durante alguns minutos antes da subida começar, tive a sensação de que outra pessoa estava escalando comigo. Eu ‘sabia’ que era um homem, embora não tivesse ideia de quem ele poderia ter sido... estava sempre aproximadamente 5 metros atrás de mim.” [@brugger1999hallucinatory]
+
+Outro alpinista relatou ter ouvido vozes em francês — fato que considerou surpreendente por não falar o idioma. Os autores sugeriram que escalada solo, perigo iminente, estresse agudo e privação social podem atuar como gatilhos prováveis para essas anomalias perceptuais.
+
+Posteriormente, Hüfner e colaboradores, ao analisarem 83 episódios descritos na literatura de montanhismo, identificaram três padrões: episódios sem alterações perceptuais (51%), episódios com alucinações associadas a edema cerebral ou outras alterações orgânicas (22%) e episódios de alucinações isoladas sem comprometimento neurológico subjacente (28%). Alucinações ocorreram em 42% dos episódios, a uma altitude média de 7.280 metros. Um achado clinicamente relevante foi que as perturbações perceptuais foram experienciadas como neutras em 60% dos casos, como úteis ou reconfortantes em 23%, e como assustadoras ou perigosas em 17% [@hufner2018]. O estudo também observou associação entre alucinações e risco aumentado de acidentes e quase-acidentes (OR = 4,44; p = 0,007), destacando implicações de segurança — embora, paradoxalmente, algumas dessas vozes e presenças tenham sido descritas como orientadoras para a sobrevivência.
+
+Em estudo de campo no Campo Base do Everest (5.365 m), Hüfner e colaboradores avaliaram prospectivamente 97 escaladores em expedições organizadas [@hufner2021]. Embora apenas um participante tenha apresentado alucinações com intensidade suficiente para preencher critérios diagnósticos formais durante a expedição, experiências perceptuais anômalas subliminares foram identificadas em proporção relevante: 10,3% tiveram pelo menos um item positivo no HAPSY-Q (questionário desenvolvido para alucinações em alta altitude) e 20,7% no PQ-16. Além disso, 9,5% relataram ter experimentado alucinações relacionadas à altitude em expedições anteriores [@hufner2021]. Os autores sugerem que, embora alucinações intensas sejam raras em expedições comerciais organizadas (possivelmente por menor privação sensorial e social), experiências anômalas podem representar tanto fator de risco quanto, em alguns casos, um recurso adaptativo.
+
+Essa vivência de uma presença adicional — frequentemente protetora ou orientadora — ficou conhecida como “Fator do Terceiro Homem” (Third Man Factor), termo inspirado em The Waste Land de T. S. Eliot [@eliot1922].
+
+> Who is the third who walks always beside you?\
+> When I count, there are only you and I together\
+> But when I look ahead up the white road\
+> There is always another one walking beside you\
+> Gliding wrapt in a brown mantle, hooded\
+> I do not know whether a man or a woman\
+> —But who is that on the other side of you?
+>
+> --- @eliot1922 [Part V: What the Thunder Said, lines 359--365]
+
+
+O caso mais célebre é o de Sir Ernest Shackleton durante a Expedição Imperial Transantártica (1914–1916). Após o Endurance ser esmagado pelo gelo, Shackleton e dois companheiros (Frank Worsley e Tom Crean) realizaram uma travessia de 36 horas pelas montanhas e geleiras inexploradas da Geórgia do Sul até uma estação baleeira, em busca de resgate. Em South, Shackleton escreveu que, durante aquela marcha, frequentemente lhe parecia que eram quatro, não três [@shackleton1919]. Worsley e Crean, quando questionados separadamente após o resgate, relataram experiência semelhante, sem que a tivessem mencionado durante a jornada. John Geiger, em livro dedicado ao fenômeno, documenta dezenas de casos análogos entre exploradores, alpinistas, náufragos e sobreviventes de desastres [@geiger2009].
+
+Experiências de presença sentida — a sensação vívida de que “alguém está ali” sem evidência sensorial clara — são particularmente instrutivas para compreender a amplitude das vivências alucinatórias fora do contexto clínico. Em estudo populacional com mais de dez mil participantes, Brederoo e colaboradores mostraram que esse tipo de experiência também ocorre na população geral, ainda que com menor prevalência do que outras modalidades [@brederoo2024]. Cerca de 1,6% relataram presença sentida no mês anterior, muitas vezes descrita como percepção inequívoca de alguém próximo, por vezes acompanhada da sensação de estar sendo observado ou tocado. Fenomenologicamente, trata-se de uma experiência limítrofe entre alucinação e crença, envolvendo o corpo próprio e o espaço peripessoal. Os autores observaram associação consistente com outras experiências alucinatórias (sobretudo visuais e táteis) e com fatores como eventos adversos prévios, solidão e alterações do sono. Em conjunto, esses achados sustentam a ideia de um continuum, no qual alterações sutis de presença e corporeidade compartilham mecanismos com formas mais reconhecidas de alucinação.
+
+## Vozes e o luto
+
+Entre pessoas em luto pela perda de um parceiro, a prevalência dessas experiências pode ser maior. Em um estudo com 50 participantes enlutados (idade média de 73 anos), Grimby encontrou as seguintes frequências [@grimby1993bereavement]:
+
+
+| Experiência                      | Prevalência |
+|----------------------------------|-------------|
+| Ouvir a voz do parceiro falecido | 30%         |
+| Visões do falecido               | 26%         |
+| Sensação da presença do parceiro | 52%         |
+
+Em outro estudo, cerca de metade dos entrevistados relatou alguma forma de alucinação ou ilusão envolvendo a pessoa amada falecida [@dewi1971hallucinations]. Manter uma conversação com o falecido também foi descrito como relativamente comum, ocorrendo em 11,6% a 30% dos casos [@dewi1971hallucinations]. Um aspecto importante dessas experiências é que, para muitos enlutados, elas têm caráter amparador e consolador [@dewi1971hallucinations].
+
+A forma como a cultura sanciona essas experiências produz consequências importantes. Enquanto no Ocidente vivências de reencontro com o falecido podem gerar estranheza e medo, no Japão esse tipo de vínculo pode ser socialmente encorajado, em continuidade com práticas de reverência aos ancestrais [@yamamoto1969mourning].
+
+## Continuidade e significado
+
+Considerados em conjunto, esses estudos e relatos convergem para uma conclusão central: ouvir vozes e ter visões não constitui, por si só, um sinal inequívoco de doença mental. Trata-se de experiências humanas possíveis, distribuídas ao longo de um espectro que vai desde ocorrências transitórias e não problemáticas até manifestações persistentes e incapacitantes. O que diferencia esses extremos não é apenas a presença do fenômeno, mas sua frequência, intensidade, conteúdo, impacto emocional, contexto cultural e interpretação pessoal.
+
+Compreender essa continuidade é essencial para evitar reduções simplistas e para reconhecer que vozes e visões fazem parte do repertório da experiência humana. Antes de serem classificadas, diagnosticadas ou silenciadas, elas precisam ser descritas, escutadas e compreendidas em sua densidade fenomenológica.
