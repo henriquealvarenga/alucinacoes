@@ -1,0 +1,121 @@
+/* Estilos personalizados para o livro Alucinações */
+
+/* Importação das fontes */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+/* Tipografia geral */
+body {
+  font-family: 'Crimson Pro', 'Georgia', serif;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-weight: 600;
+}
+
+/* Citações em bloco */
+blockquote {
+  border-left: 4px solid #6c757d;
+  padding-left: 1.5rem;
+  margin-left: 0;
+  font-style: italic;
+  color: #495057;
+}
+
+/* Tabelas */
+table {
+  margin: 1.5rem 0;
+}
+
+/* Callouts personalizados */
+.callout-note {
+  border-left-color: #0d6efd;
+}
+
+.callout-tip {
+  border-left-color: #198754;
+}
+
+.callout-important {
+  border-left-color: #dc3545;
+}
+
+.callout-warning {
+  border-left-color: #ffc107;
+}
+
+/* Notas de rodapé */
+.footnote-ref {
+  font-size: 0.8em;
+  vertical-align: super;
+}
+
+/* Referências bibliográficas */
+#refs {
+  font-size: 0.95em;
+}
+
+#refs > div {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin-bottom: 0.5em;
+}
+
+/* Página de título */
+.quarto-title-meta {
+  font-size: 1.1em;
+}
+
+/* Seções não numeradas */
+.unnumbered {
+  font-style: normal;
+}
+
+/* Imagens */
+figure {
+  margin: 2rem 0;
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #6c757d;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Drop cap (letra capitular) */
+.drop-cap::first-letter {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: 4em;
+  float: left;
+  line-height: 0.8;
+  padding-right: 0.1em;
+  padding-top: 0.05em;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+/* Modo escuro - ajustes */
+[data-bs-theme="dark"] blockquote {
+  color: #adb5bd;
+  border-left-color: #495057;
+}
+
+[data-bs-theme="dark"] figcaption {
+  color: #adb5bd;
+}
+
+[data-bs-theme="dark"] .drop-cap::first-letter {
+  color: #ecf0f1;
+}

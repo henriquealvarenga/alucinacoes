@@ -4,21 +4,15 @@
 Ao contrário do que sugerem concepções estritamente clínicas, experiências como ouvir vozes ou ver figuras inexistentes não se restringem a problemas médicos, psiquiátricos ou neurológicos. Estudos realizados ao longo das últimas décadas mostram que tais fenômenos ocorrem com relativa frequência na população geral, muitas vezes sem sofrimento significativo, sem prejuízo funcional e sem necessidade de cuidados médicos.
 :::
 
-“Hallucinations in the sane” were well recognized in the nineteenth century, and with the rise of neurology, people sought to understand more clearly what caused them. In England in the 1880s, the Society for Psychical Research was founded to collect and investigate reports of apparitions or hallucinations, especially those of the bereaved, and many eminent scientists—physicists as well as physiologists and psychologists—joined the society (William James was active in the American branch). Telepathy, clairvoyance, communication with the dead, and the nature of a spirit world became the subjects of systematic investigation.
-These early researchers found that hallucinations were not uncommon in the general population. Their 1894 “International Census of Waking Hallucinations in the Sane” examined the occurrence and nature of hallucinations experienced by normal people in normal circumstances (they took care to exclude anyone with obvious”“ medical or psychiatric problems). Seventeen thousand people were sent a single question:
+“Hallucinations in the sane” were well recognized in the nineteenth century, and with the rise of neurology, people sought to understand more clearly what caused them. In England in the 1880s, the Society for Psychical Research was founded to collect and investigate reports of apparitions or hallucinations, especially those of the bereaved, and many eminent scientists—physicists as well as physiologists and psychologists—joined the society (William James was active in the American branch). Telepathy, clairvoyance, communication with the dead, and the nature of a spirit world became the subjects of systematic investigation. These early researchers found that hallucinations were not uncommon in the general population. Their 1894 “International Census of Waking Hallucinations in the Sane” examined the occurrence and nature of hallucinations experienced by normal people in normal circumstances (they took care to exclude anyone with obvious”“ medical or psychiatric problems). Seventeen thousand people were sent a single question:
 
 Have you ever, when believing yourself to be completely awake, had a vivid impression of seeing or being touched by a living being or inanimate object, or of hearing a voice, which impression, as far as you could discover, was not due to an external physical cause?
 
 More than 10 percent responded in the affirmative, and of those, more than a third heard voices. As John Watkins noted in his book Hearing Voices, hallucinated voices “having some kind of religious or supernatural content represented a small but significant minority of these reports.” Most of the hallucinations, however, were of a more quotidian character.”
 
-Excerpt From
-Hallucinations
-Oliver Sacks
-This material may be protected by copyright.
+Excerpt From Hallucinations Oliver Sacks This material may be protected by copyright.
 
 [@parish1987waking]
-
-
 
 A investigação sistemática dessas experiências fora do contexto clínico começou a ganhar corpo a partir do final do século XX. Um dos estudos pioneiros e amplamente citados foi conduzido por Posey e Losch, que entrevistaram 375 universitários considerados mentalmente saudáveis. Os autores encontraram que 71% dos participantes relataram ao menos uma experiência de tipo alucinatório ao longo da vida. Foram particularmente comuns fenômenos como ouvir o próprio nome sendo chamado quando sozinho (36%) ou perceber os próprios pensamentos como se fossem falados em voz alta (39%) [@posey1983auditory]. Esses relatos não se associaram a indicadores de psicopatologia, o que é compatível com a hipótese de que tais vivências integram o repertório possível da vida mental humana.
 
@@ -38,7 +32,9 @@ Por isso, muitos relatos assumem um caráter de marco biográfico: há um “ant
 
 Oliver Sacks relatou uma experiência pessoal em Hallucinations. Em 1974, durante uma escalada solitária nas montanhas da Noruega, sofreu um grave acidente que rompeu músculos da coxa e deslocou o joelho. Exausto e em choque, considerou descansar na neve — o que significaria a morte por hipotermia. Foi então que ouviu uma voz clara e imperativa, distinta do seu diálogo interno habitual:
 
-> “You can't rest here — you can't rest anywhere. You've got to go on. Find a pace you can keep up and go on steadily.” ^[Você não pode descansar aqui — não pode descansar em lugar algum. Você precisa continuar. Encontre um ritmo que consiga manter e siga em frente constantemente][@sacks2012hallucinations]
+> “You can't rest here — you can't rest anywhere. You've got to go on. Find a pace you can keep up and go on steadily.” [^1][@sacks2012hallucinations]
+
+[^1]: Você não pode descansar aqui — não pode descansar em lugar algum. Você precisa continuar. Encontre um ritmo que consiga manter e siga em frente constantemente
 
 Sacks chamou essa voz de life voice (“voz de vida”) e atribuiu a ela sua sobrevivência. Mais tarde, enfatizou que não se tratava de seu monólogo interno habitual, mas de uma voz “outra”, percebida como segura e confiável, embora reconhecida como emergindo de alguma parte de si mesmo.
 
@@ -52,11 +48,9 @@ Posteriormente, Hüfner e colaboradores, ao analisarem 83 episódios descritos n
 
 Em estudo de campo no Campo Base do Everest (5.365 m), Hüfner e colaboradores avaliaram prospectivamente 97 escaladores em expedições organizadas [@hufner2021]. Embora apenas um participante tenha apresentado alucinações com intensidade suficiente para preencher critérios diagnósticos formais durante a expedição, experiências perceptuais anômalas subliminares foram identificadas em proporção relevante: 10,3% tiveram pelo menos um item positivo no HAPSY-Q (questionário desenvolvido para alucinações em alta altitude) e 20,7% no PQ-16. Além disso, 9,5% relataram ter experimentado alucinações relacionadas à altitude em expedições anteriores [@hufner2021]. Os autores sugerem que, embora alucinações intensas sejam raras em expedições comerciais organizadas (possivelmente por menor privação sensorial e social), experiências anômalas podem representar tanto fator de risco quanto, em alguns casos, um recurso adaptativo.
 
-
-
 O caso mais célebre é o de Sir Ernest Shackleton durante a Expedição Imperial Transantártica (1914–1916). Após o Endurance ser esmagado pelo gelo, Shackleton e dois companheiros (Frank Worsley e Tom Crean) realizaram uma travessia de 36 horas pelas montanhas e geleiras inexploradas da Geórgia do Sul até uma estação baleeira, em busca de resgate. Em South, Shackleton escreveu que, durante aquela marcha, cruzando as montanhas e geleiras da Georgia do Sul com Worsley e Crean, frequentemente lhe parecia que eram quatro, não três [@shackleton2002sul, p. 295-296]. Seus companheiros, Worsley e Crean, quando questionados separadamente após o resgate, relataram experiência semelhante, sem que a tivessem mencionado durante a jornada [@shackleton2002sul, p. 295-296]. John Geiger, em livro dedicado ao fenômeno, documenta dezenas de casos análogos entre exploradores, alpinistas, náufragos e sobreviventes de desastres [@geiger2009].
 
-Essa vivência de uma presença adicional — frequentemente protetora ou orientadora — ficou conhecida como “Fator do Terceiro Homem” (Third Man Factor), termo inspirado em The Waste Land de T. S. Eliot [@eliot1922], que 
+Essa vivência de uma presença adicional — frequentemente protetora ou orientadora — ficou conhecida como “Fator do Terceiro Homem” (Third Man Factor), termo inspirado em The Waste Land de T. S. Eliot [@eliot1922], que
 
 > Who is the third who walks always beside you?\
 > When I count, there are only you and I together\

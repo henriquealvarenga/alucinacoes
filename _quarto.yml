@@ -30,10 +30,11 @@ book:
     
     - part: "Parte I — O sagrado"
       chapters:
-        - 01-01-vozes-profeticas.qmd
-        - 01-02-visoes-marianas.qmd
-        - 01-03-discretio-spirituum.qmd
-        - 01-04-xamanismo.qmd
+        - 01-01-grecia-apolinea.qmd
+        - 01-02-vozes-profeticas.qmd
+        - 01-03-visoes-marianas.qmd
+        - 01-04-discretio-spirituum.qmd
+        - 01-05-xamanismo.qmd
     
     - part: "Parte II — A experiência"
       chapters:
