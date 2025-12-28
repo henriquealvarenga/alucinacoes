@@ -1,0 +1,85 @@
+# O movimento internacional dos ouvidores de vozes {#sec-movimento-ouvidores}
+
+::: drop-cap
+Estudar as características do fenômeno de ouvir vozes na população não tem sido fácil, pois há uma dificuldade em recrutar participantes para pesquisas. É possível que muitas pessoas que vivenciem esses fenômenos tenham receio de serem julgados de forma preconceituosa e evitem compartilhar suas experiências [@johns2002occurrence].
+:::
+
+É difícil, portanto, estimar o quanto esses fenômenos ocorrem na população em geral e é possível que as prevalências reais sejam até mesmo maiores que as encontradas.
+
+## Vozes sem transtorno psiquiátrico
+
+Apesar dessa dificuldade, alguns estudos indicam que apenas uma minoria dos pacientes que ouvem vozes tenha algum transtorno psiquiátrico [@jardri2013neuroscience, p. 23].
+
+::: callout-tip
+## Dado importante
+
+Num interessante estudo populacional envolvendo mais de 8.000 participantes na Inglaterra e País de Gales, **apenas 25%** daqueles que apresentaram alucinações tiveram algum diagnóstico psiquiátrico [@johns2002occurrence].
+:::
+
+## Uma nova perspectiva
+
+Ouvir vozes parece ser, portanto, um fenômeno comum, não sendo por si só patológico e nem mesmo prejudicial ou danoso. A frequência, o conteúdo das vozes, o grau de controle sobre a ocorrência das vozes e interpretação pessoal e social desse fenômeno é que fazem a diferença para quem vivencia essas experiências.
+
+## O Hearing Voices Movement
+
+A partir da necessidade de repensar o significado do fenômeno de ouvir vozes surgiu na Inglaterra, na década de 1980, o **"Hearing Voices Movement"** (movimento dos ouvidores de vozes) [@corstens2014emerging].
+
+Os valores-chave desse movimento são:
+
+1.  **Reconhecimento da naturalidade:** as vozes são parte natural da experiência humana e não uma anormalidade
+
+2.  **Experiência carregada de significado:** pode ser interpretada como uma resposta a circunstâncias sociais, emocionais ou interpessoais [@corstens2014emerging]
+
+## Abordagem não-medicamentosa
+
+::: callout-note
+## Alternativas terapêuticas
+
+Quando há necessidade de algum tipo de ajuda para lidar com as vozes, as medicações são apenas uma das possíveis estratégias e não a única.
+:::
+
+O movimento dos ouvidores de vozes promove uma variedade de abordagens para ajudar pessoas a lidar com suas experiências, incluindo:
+
+-   Grupos de apoio entre pares
+-   Terapias psicológicas focadas no significado das vozes
+-   Estratégias de enfrentamento desenvolvidas pelos próprios ouvidores
+-   Integração da experiência na narrativa de vida da pessoa
+
+## Alucinações em quadros clínicos {#sec-alucinacoes-clinicas}
+
+### Alucinações auditivas
+
+Alucinações verbais auditivas são comuns em diversas patologias psiquiátricas e neurológicas, tais como:
+
+-   Esquizofrenia
+-   Transtornos de humor
+-   Transtornos dissociativos
+-   Intoxicação com drogas
+-   Transtorno de estresse pós-traumático
+-   Doença de Parkinson
+-   Doença de Alzheimer
+-   Epilepsia
+-   Entre outros
+
+::: callout-warning
+## Limitação diagnóstica
+
+Entretanto, não parece haver diferenças nas características das alucinações que permitam inferir o diagnóstico. Ou seja, a característica das vozes não parece ser suficiente para determinar se o diagnóstico do paciente é esquizofrenia, transtorno bipolar, depressão ou outro transtorno psiquiátrico [@waters2017hallucinations].
+:::
+
+### Alucinações visuais
+
+As alucinações visuais também ocorrem em diversos contextos clínicos e têm importantes implicações diagnósticas que serão exploradas em material complementar.
+
+------------------------------------------------------------------------
+
+::: {.callout-note appearance="simple"}
+## Nota do autor
+
+Este capítulo será expandido em futuras edições com discussões mais detalhadas sobre:
+
+-   Alucinações visuais em quadros clínicos
+-   Diagnóstico diferencial
+-   Abordagens terapêuticas
+-   Casos clínicos ilustrativos
+:::

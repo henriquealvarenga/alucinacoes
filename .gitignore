@@ -2,6 +2,10 @@
 /_site/
 /_book/
 /_freeze/
+books/
+references/PDFs e Word/books/
+
+
 .Rproj.user
 .Rhistory
 .RData

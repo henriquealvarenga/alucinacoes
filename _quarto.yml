@@ -27,28 +27,36 @@ book:
   chapters:
     - index.qmd
     - 00-introducao.qmd
-    
-    - part: "Parte I — O sagrado"
+
+    - part: "Parte I — A Busca por um Sentido"
       chapters:
-        - 01-01-grecia-apolinea.qmd
-        - 01-02-vozes-profeticas.qmd
-        - 01-03-visoes-marianas.qmd
-        - 01-04-discretio-spirituum.qmd
-        - 01-05-xamanismo.qmd
+        - 01-01-background-filosofico.qmd
+        - 01-02-background-antropologico.qmd
+        - 01-03-experiencia-intima.qmd
+        - 01-04-experiencia-compartilhada.qmd
     
-    - part: "Parte II — A experiência"
+    - part: "Parte II — O sagrado"
       chapters:
-        - 02-01-fenomenologia.qmd
-        - 02-02-continuum.qmd
-        - 02-03-dimensoes.qmd
-        - 02-04-escalas.qmd
+        - 02-01-grecia-apolinea.qmd
+        - 02-02-vozes-profeticas.qmd
+        - 02-03-visoes-marianas.qmd
+        - 02-04-discretio-spirituum.qmd
+        - 02-05-xamanismo.qmd
     
-    - part: "Parte III — O cérebro"
+    - part: "Parte III — O Cotidiano"
       chapters:
-        - 03-01-historia-conceito.qmd
-        - 03-02-neurobiologia.qmd
-        - 03-03-substancias.qmd
-        - 03-04-ouvidores-vozes.qmd
+        - 03-01-fenomenologia.qmd
+        - 03-02-continuum.qmd
+        - 03-03-dimensoes.qmd
+    
+    
+    - part: "Parte IV — A Ciência"
+      chapters:
+        - 04-01-historia-conceito.qmd
+        - 04-02-neurobiologia.qmd
+        - 04-03-substancias.qmd
+        - 04-04-escalas.qmd
+        - 04-05-ouvidores-vozes.qmd
     
     - references.qmd
 
