@@ -1,17 +1,17 @@
 /* Estilos personalizados para o livro Alucinações */
 
 /* Importação das fontes */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap');
 
 /* Tipografia geral */
 body {
-  font-family: 'Crimson Pro', 'Georgia', serif;
+  font-family: 'EB Garamond', 'Georgia', serif;
   font-size: 1.15rem;
   line-height: 1.7;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-family: 'Playfair Display', 'Georgia', serif;
   font-weight: 600;
 }
 
@@ -96,7 +96,7 @@ a:hover {
 
 /* Drop cap (letra capitular) */
 .drop-cap::first-letter {
-  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-family: 'Playfair Display', 'Georgia', serif;
   font-size: 4em;
   float: left;
   line-height: 0.8;

@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: "Vozes e Visões: O Sagrado, a Experiência e a Medicina"
-  subtitle: "Uma Breve Introdução"
+  title: "Vozes e Visões: A Busca por um Sentido"
+  subtitle: "Perspectivas Fenomenológicas, Culturais e Neurocientíficas"
   author:
     - name: "Henrique Alvarenga da Silva"
       affiliation: "Universidade Federal de São João del-Rei (UFSJ)"
@@ -17,7 +17,7 @@ book:
   page-navigation: true
   search: true
   repo-url: https://github.com/henriquealvarenga/alucinacoes
-  repo-actions: [edit, issue]
+  repo-actions: none
   
   sidebar:
     style: docked
@@ -47,7 +47,8 @@ book:
       chapters:
         - 03-01-fenomenologia.qmd
         - 03-02-continuum.qmd
-        - 03-03-dimensoes.qmd
+        - 03-03-special-cases.qmd
+        - 03-04-dimensoes.qmd
     
     
     - part: "Parte IV — A Ciência"

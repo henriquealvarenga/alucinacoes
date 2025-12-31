@@ -11,3 +11,15 @@ Este capítulo será desenvolvido em futuras edições, abordando:
 -   Modelos preditivos do cérebro
 -   Achados de neuroimagem funcional e estrutural
 :::
+
+
+Zmigrod e colaboradores[-@zmigrod2016] realizaram a mais abrangente meta-análise quantitativa até então sobre os mecanismos neurais das alucinações, utilizando a técnica de Estimativa de Probabilidade de Ativação (ALE) para analisar 23 conjuntos de dados de neuroimagem funcional, abrangendo tanto alucinações auditivo-verbais (AAV) quanto visuais (AV). Os resultados revelaram padrões de ativação distintos para cada modalidade sensorial:  
+- durante AAV, observou-se ativação consistente nas áreas de Broca e Wernicke (processamento de fala e linguagem), córtex auditivo, ínsula bilateral, hipocampo/giro parahipocampal esquerdo e região paracingulada do córtex pré-frontal medial;  
+- durante AV, a ativação concentrou-se em áreas visuais secundárias e associativas, incluindo giro lingual, giro fusiforme e cuneus.  
+
+Os autores interpretam esses achados à luz de três teorias complementares sobre a gênese das alucinações:  
+- (1) disfunções no processamento bottom-up (superestimulação de córtices sensoriais) e top-down (falhas na modulação atencional e expectativas perceptuais);  
+- (2) intrusão de memórias e pensamentos, evidenciada pela ativação do lobo temporal medial;   
+- (3) déficits de atribuição de fonte, refletidos na ativação da região paracingulada, associada ao monitoramento da realidade — a capacidade de distinguir entre informações geradas internamente e percebidas externamente.   
+
+A meta-análise demonstra que múltiplos processos cognitivos operam simultaneamente durante as alucinações, sugerindo a necessidade de modelos teóricos integrados que contemplem tanto os mecanismos específicos de cada modalidade sensorial quanto os processos transmodais envolvidos na experiência alucinatória.

@@ -1,0 +1,67 @@
+# Vozes e Visões em Situações Específicas
+
+## No Limite da Fisiologia
+
+Oliver Sacks relatou uma experiência pessoal em Hallucinations. Em 1974, durante uma escalada solitária nas montanhas da Noruega, sofreu um grave acidente que rompeu músculos da coxa e deslocou o joelho. Exausto e em choque, considerou descansar na neve — o que significaria a morte por hipotermia. Foi então que ouviu uma voz clara e imperativa, distinta do seu diálogo interno habitual:
+
+> “You can't rest here — you can't rest anywhere. You've got to go on. Find a pace you can keep up and go on steadily.” [^03-03-special-cases-1][@sacks2012hallucinations]
+
+[^03-03-special-cases-1]: Você não pode descansar aqui — não pode descansar em lugar algum. Você precisa continuar. Encontre um ritmo que consiga manter e siga em frente constantemente
+
+Sacks chamou essa voz de life voice (“voz de vida”) e atribuiu a ela sua sobrevivência. Mais tarde, enfatizou que não se tratava de seu monólogo interno habitual, mas de uma voz “outra”, percebida como segura e confiável, embora reconhecida como emergindo de alguma parte de si mesmo.
+
+A ocorrência de alucinações em altitudes extremas tem sido documentada sistematicamente. Um estudo pioneiro de Brugger e colaboradores entrevistou oito alpinistas de classe mundial que alcançaram altitudes acima de 8.500 metros sem oxigênio suplementar — incluindo o Everest, K2, Kangchenjunga e Lhotse — e encontrou experiências alucinatórias em sete dos oito escaladores (88%) [@brugger1999hallucinatory]. As experiências mais frequentes foram ilusões somestésicas (distorções do esquema corporal), além de vivências de “presença sentida”. Um alpinista descreveu:
+
+> “Durante alguns minutos antes da subida começar, tive a sensação de que outra pessoa estava escalando comigo. Eu ‘sabia’ que era um homem, embora não tivesse ideia de quem ele poderia ter sido... estava sempre aproximadamente 5 metros atrás de mim.” [@brugger1999hallucinatory]
+
+Outro alpinista relatou ter ouvido vozes em francês — fato que considerou surpreendente por não falar o idioma. Os autores sugeriram que escalada solo, perigo iminente, estresse agudo e privação social podem atuar como gatilhos prováveis para essas anomalias perceptuais.
+
+Posteriormente, Hüfner e colaboradores, ao analisarem 83 episódios descritos na literatura de montanhismo, identificaram três padrões: episódios sem alterações perceptuais (51%), episódios com alucinações associadas a edema cerebral ou outras alterações orgânicas (22%) e episódios de alucinações isoladas sem comprometimento neurológico subjacente (28%). Alucinações ocorreram em 42% dos episódios, a uma altitude média de 7.280 metros. Um achado clinicamente relevante foi que as perturbações perceptuais foram experienciadas como neutras em 60% dos casos, como úteis ou reconfortantes em 23%, e como assustadoras ou perigosas em 17% [@hufner2018]. O estudo também observou associação entre alucinações e risco aumentado de acidentes e quase-acidentes (OR = 4,44; p = 0,007), destacando implicações de segurança — embora, paradoxalmente, algumas dessas vozes e presenças tenham sido descritas como orientadoras para a sobrevivência.
+
+Em estudo de campo no Campo Base do Everest (5.365 m), Hüfner e colaboradores avaliaram prospectivamente 97 escaladores em expedições organizadas [@hufner2021]. Embora apenas um participante tenha apresentado alucinações com intensidade suficiente para preencher critérios diagnósticos formais durante a expedição, experiências perceptuais anômalas subliminares foram identificadas em proporção relevante: 10,3% tiveram pelo menos um item positivo no HAPSY-Q (questionário desenvolvido para alucinações em alta altitude) e 20,7% no PQ-16. Além disso, 9,5% relataram ter experimentado alucinações relacionadas à altitude em expedições anteriores [@hufner2021]. Os autores sugerem que, embora alucinações intensas sejam raras em expedições comerciais organizadas (possivelmente por menor privação sensorial e social), experiências anômalas podem representar tanto fator de risco quanto, em alguns casos, um recurso adaptativo.
+
+O caso mais célebre é o de Sir Ernest Shackleton durante a Expedição Imperial Transantártica (1914–1916). Após o Endurance ser esmagado pelo gelo, Shackleton e dois companheiros (Frank Worsley e Tom Crean) realizaram uma travessia de 36 horas pelas montanhas e geleiras inexploradas da Geórgia do Sul até uma estação baleeira, em busca de resgate. Em South, Shackleton escreveu que, durante aquela marcha, cruzando as montanhas e geleiras da Georgia do Sul com Worsley e Crean, frequentemente lhe parecia que eram quatro, não três [@shackleton2002sul, p. 295-296]. Seus companheiros, Worsley e Crean, quando questionados separadamente após o resgate, relataram experiência semelhante, sem que a tivessem mencionado durante a jornada [@shackleton2002sul, p. 295-296]. John Geiger, em livro dedicado ao fenômeno, documenta dezenas de casos análogos entre exploradores, alpinistas, náufragos e sobreviventes de desastres [@geiger2009].
+
+Essa vivência de uma presença adicional — frequentemente protetora ou orientadora — ficou conhecida como “Fator do Terceiro Homem” (Third Man Factor), termo inspirado em The Waste Land de T. S. Eliot [@eliot1922], que
+
+> Who is the third who walks always beside you?\
+> When I count, there are only you and I together\
+> But when I look ahead up the white road\
+> There is always another one walking beside you\
+> Gliding wrapt in a brown mantle, hooded\
+> I do not know whether a man or a woman\
+> —But who is that on the other side of you?
+>
+> --- @eliot1922 [Part V: What the Thunder Said, lines 359--365]
+
+Experiências de presença sentida — a sensação vívida de que “alguém está ali” sem evidência sensorial clara — são particularmente instrutivas para compreender a amplitude das vivências alucinatórias fora do contexto clínico. Em estudo populacional com mais de dez mil participantes, Brederoo e colaboradores mostraram que esse tipo de experiência também ocorre na população geral, ainda que com menor prevalência do que outras modalidades [@brederoo2024]. Cerca de 1,6% relataram presença sentida no mês anterior, muitas vezes descrita como percepção inequívoca de alguém próximo, por vezes acompanhada da sensação de estar sendo observado ou tocado. Fenomenologicamente, trata-se de uma experiência limítrofe entre alucinação e crença, envolvendo o corpo próprio e o espaço peripessoal. Os autores observaram associação consistente com outras experiências alucinatórias (sobretudo visuais e táteis) e com fatores como eventos adversos prévios, solidão e alterações do sono. Em conjunto, esses achados sustentam a ideia de um continuum, no qual alterações sutis de presença e corporeidade compartilham mecanismos com formas mais reconhecidas de alucinação.
+
+## Vozes e Visões no luto
+
+Um parcela significativa das pessoas em luto pela perda de um parceiro vivenciam experiências de ouvir vozes, ver o parceiro ou sentir sua presença. 
+
+O artigo clássico de Rees [-@rees1971] investiga de forma sistemática a ocorrência de alucinações e ilusões relacionadas ao cônjuge falecido em pessoas viúvas. O estudo foi conduzido no País de Gales e incluiu 293 participantes (227 viúvas e 66 viúvos), correspondendo a 80,7% de todos os viúvos residentes na região da pesquisa e a 94,2% dos considerados aptos para entrevista, o que confere ao trabalho um caráter quase censitário. Aproximadamente 46,7% dos entrevistados relataram ao menos uma experiência perceptiva do cônjuge morto após o luto, sendo a forma mais comum a sensação de presença (39,2%), seguida por experiências visuais (14,0%), auditivas (13,3%), diálogos com o falecido (11,6%) e, mais raramente, sensações táteis (2,7%). Essas vivências foram mais frequentes nos primeiros dez anos de viuvez, embora pudessem persistir por décadas. Não houve associação entre a presença de alucinações e isolamento social, religião, local de residência, causa da morte ou diagnóstico de depressão, cuja prevalência foi semelhante entre indivíduos com e sem alucinações. Em contraste, as experiências foram mais comuns entre pessoas viúvas após os 40 anos, com casamentos longos e harmoniosos, com filhos, e entre indivíduos com traços de personalidade histeroides em comparação aos obsessoides. A maioria dos participantes descreveu as experiências como confortantes ou úteis, e **raramente as havia revelado a terceiros, inclusive a médicos**. Com base nesses achados, Rees conclui que as alucinações do luto constituem fenômenos frequentes, não patológicos e potencialmente adaptativos, devendo ser entendidas como parte do processo normal de elaboração da perda, e não como indicadores de psicose ou doença mental.
+
+O artigo de Grimby [-@grimby1993] examina de forma longitudinal as reações de luto, a ocorrência de alucinações e ilusões pós-luto e a qualidade de vida em idosos recentemente viúvos, acompanhados ao longo do primeiro ano após a morte do cônjuge. A amostra final incluiu 50 participantes (14 homens e 36 mulheres), com idade média de aproximadamente 73 anos, selecionados fora de serviços psiquiátricos, com o objetivo explícito de descrever o curso normal do luto. Os resultados mostraram que as reações emocionais foram, em geral, leves a moderadas, caracterizadas principalmente por solidão, humor deprimido, choro, fadiga, ansiedade e queixas cognitivas leves, com redução progressiva da intensidade ao longo do ano; a solidão foi o sintoma mais persistente. Um achado central do estudo foi a alta frequência de alucinações e ilusões pós-luto: **cerca de 82% dos participantes relataram pelo menos uma dessas experiências no primeiro mês**, mais frequentemente a sensação da presença do falecido, seguida por experiências auditivas, visuais ou diálogos com o cônjuge morto. Essas vivências diminuíram ao longo do tempo, mas ainda estavam presentes em 52% dos sujeitos após 12 meses. Longe de serem vividas como patológicas, a maioria dessas experiências foi descrita como agradável, reconfortante e útil no processo de adaptação à perda. O estudo também mostrou que a qualidade de vida dos recentemente enlutados era significativamente inferior à de idosos casados ou nunca casados, aproximando-se da observada em divorciados, e que fatores como maior harmonia conjugal prévia se associavam a maior intensidade de solidão e maior frequência de experiências perceptivas pós-luto. Em conjunto, Grimby conclui que tanto as reações emocionais quanto as alucinações pós-luto devem ser compreendidas como componentes comuns e não patológicos do luto normal em idosos, defendendo a necessidade de reduzir o estigma associado a essas experiências.
+
+| Experiência                      | Prevalência |
+|----------------------------------|-------------|
+| Ouvir a voz do parceiro falecido | 30%         |
+| Visões do falecido               | 26%         |
+| Sensação da presença do parceiro | 52%         |
+
+
+
+
+Em outro estudo, cerca de metade dos entrevistados relatou alguma forma de alucinação ou ilusão envolvendo a pessoa amada falecida [@dewi1971hallucinations]. Manter uma conversação com o falecido também foi descrito como relativamente comum, ocorrendo em 11,6% a 30% dos casos [@dewi1971hallucinations]. Um aspecto importante dessas experiências é que, para muitos enlutados, elas têm caráter amparador e consolador [@dewi1971hallucinations].
+
+A forma como a cultura sanciona essas experiências produz consequências importantes. Enquanto no Ocidente vivências de reencontro com o falecido podem gerar estranheza e medo, no Japão esse tipo de vínculo pode ser socialmente encorajado, em continuidade com práticas de reverência aos ancestrais [@yamamoto1969mourning].
+
+
+
+
+## Continuidade e significado
+
+Considerados em conjunto, esses estudos e relatos convergem para uma conclusão central: ouvir vozes e ter visões não constitui, por si só, um sinal inequívoco de doença mental. Trata-se de experiências humanas possíveis, distribuídas ao longo de um espectro que vai desde ocorrências transitórias e não problemáticas até manifestações persistentes e incapacitantes. O que diferencia esses extremos não é apenas a presença do fenômeno, mas sua frequência, intensidade, conteúdo, impacto emocional, contexto cultural e interpretação pessoal.
+
+Compreender essa continuidade é essencial para evitar reduções simplistas e para reconhecer que vozes e visões fazem parte do repertório da experiência humana. Antes de serem classificadas, diagnosticadas ou silenciadas, elas precisam ser descritas, escutadas e compreendidas em sua densidade fenomenológica.
